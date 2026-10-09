@@ -1,0 +1,6 @@
+{
+  "name": "VALOIR | Luxury Lifestyle & Design E-Commerce",
+  "description": "Premium international lifestyle and design e-commerce boutique featuring curated apparel, home aesthetics, horology, and high-fidelity audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
